@@ -20,7 +20,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "p:yellow",
+          "foreground": "p:cyan",
           "style": "plain",
           "template": "{{.Icon}} ",
           "type": "os"
